@@ -1,4 +1,4 @@
-package com.company;
+package com.interegroup;
 
 public class Main {
 
