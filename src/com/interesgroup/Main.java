@@ -1,4 +1,4 @@
-package com.interegroup;
+package com.interesgroup;
 
 public class Main {
 
